@@ -1,4 +1,4 @@
-NaNLABS Technical Exercise
+Website's dependencies scraper
 
 Instructions:
 
